@@ -1,7 +1,7 @@
-### Hi there 👋
-[alisterbaroi.tk](https://alisterbaroi.tk){:target="_blank"}
+## Hi there 👋
+### My Profile: <a href="https://alisterbaroi.tk" target="_blank">alisterbaroi.tk</a>
 
-
+<!--
 **AlisterBaroi/alisterbaroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
