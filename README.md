@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My Profile: <a href="https://alisterbaroi.tk" target="_blank">alisterbaroi.tk</a>
+### My Website: <a href="https://alisterbaroi.tk" target="_blank">alisterbaroi.tk</a>
 
 <!--
 **AlisterBaroi/alisterbaroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
