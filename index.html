@@ -446,10 +446,18 @@
     <br>
     <div class="container-fluid bg-dark text-light">
         <hr class="m-0">
-        <div class="m-0 py-3 text-center">&copy; 2021 Alister Baroi. All Rights Reserved.</div>
+        <div class="m-0 py-3 text-center">&copy; <span id='currentDate'></span> Alister Baroi. All Rights Reserved.</div>
     </div>
 
     <!-- Footer End  -->
+    
+    <!-- Getting Date to display at Footer  -->
+    <script type="text/javascript">
+        var year = document.write(new Date().getFullYear());
+        document.getElementById("currentDate").innerHTML = year;
+    </script>
+    
+    <!-- Importing bootstrap 5  -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js"
         integrity="sha384-KsvD1yqQ1/1+IA7gi3P0tyJcT3vR+NdBTt13hSJ2lnve8agRGXTTyNaBYmCR/Nwi" crossorigin="anonymous">
     </script>
