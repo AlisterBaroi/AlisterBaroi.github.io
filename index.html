@@ -446,15 +446,14 @@
     <br>
     <div class="container-fluid bg-dark text-light">
         <hr class="m-0">
-        <div class="m-0 py-3 text-center">&copy; <span id='currentDate'></span> Alister Baroi. All Rights Reserved.</div>
+        <div class="m-0 py-3 text-center">&copy; <span id='currentDate'>2021</span> Alister Baroi. All Rights Reserved.</div>
     </div>
 
     <!-- Footer End  -->
     
     <!-- Getting Date to display at Footer  -->
     <script type="text/javascript">
-        var year = document.write(new Date().getFullYear());
-        document.getElementById("currentDate").innerHTML = year;
+        document.querySelector('#currentDate').innerHTML = new Date().getFullYear();     
     </script>
     
     <!-- Importing bootstrap 5  -->
